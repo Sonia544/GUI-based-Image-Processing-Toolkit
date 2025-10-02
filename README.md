@@ -40,8 +40,6 @@ Gamma Transform
 
 🖼️ GUI Preview
 
-👉 (এখানে আপনি আপনার অ্যাপের screenshot বা before-after image comparison দিয়ে দেবেন)
-
 ⚙️ Installation
 
 Clone this repository:
